@@ -1,0 +1,17 @@
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.csproj.AssemblyReference.cache
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.AssemblyInfoInputs.cache
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.AssemblyInfo.cs
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.csproj.CoreCompileInputs.cache
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\bin\Debug\net6.0\Infrastructure.Identity.deps.json
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\bin\Debug\net6.0\Infrastructure.Identity.runtimeconfig.json
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\bin\Debug\net6.0\Infrastructure.Identity.dll
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\bin\Debug\net6.0\Infrastructure.Identity.pdb
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\bin\Debug\net6.0\Infrastructure.Shared.dll
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\bin\Debug\net6.0\Infrastructure.Shared.pdb
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.csproj.CopyComplete
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.dll
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\refint\Infrastructure.Identity.dll
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.pdb
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\Infrastructure.Identity.genruntimeconfig.cache
+E:\Scorerecord Project\scorerecord\Infrastructure.Identity\obj\Debug\net6.0\ref\Infrastructure.Identity.dll

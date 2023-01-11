@@ -1,0 +1,68 @@
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Domain.dll
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Domain.pdb
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Domain.dll
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\bin\Debug\net6.0\Domain.pdb
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\Scorerecord Project\scorerecord\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\Scorerecord Project\scorerecord\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+E:\Scorerecord Project\scorerecord\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\Scorerecord Project\scorerecord\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\Scorerecord Project\scorerecord\Infrastructure\bin\Debug\net6.0\Domain.dll
+E:\Scorerecord Project\scorerecord\Infrastructure\bin\Debug\net6.0\Domain.pdb
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+E:\Scorerecord Project\scorerecord\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Zayan IT Solution\scorerecord\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\Zayan IT Solution\scorerecord\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Zayan IT Solution\scorerecord\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

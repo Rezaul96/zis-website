@@ -1,0 +1,269 @@
+﻿@model Domain.Entities.EventObject
+@using Domain.Entities
+<header class="section header-section">
+    @await Html.PartialAsync("_header",new Event())
+</header>
+<main id="main" class="user-body-section user-inner-body-section admin-inner-body-section m-0">
+    <div class="container p-0">
+        <div class="main-body-section w-100 p-0 relative">
+            <section class="section section-title text-start">
+                <h1>Create Object</h1>
+            </section>
+
+            <section class="section form-section admin-form-section">
+                <div class="container">
+                    <div class="joining-form">
+                        <div class="form-box w-100">
+                            <form asp-controller="EventObject" asp-action="Create" asp-area="Admin" class="verify-form" enctype="multipart/form-data">
+                                <input type="hidden" name="ParentEventObjectId" value="@ViewBag.ParentEventObjectId" />
+                                <div class="form-group">
+                                    <label>Object Name</label>
+                                    <input type="text" class="form-control" required placeholder="Object Name" asp-for="ObjectName">
+                                </div>
+                                <div class="form-group">
+                                    <label>Title</label>
+                                    <input type="text" class="form-control" required placeholder="Title" asp-for="Title">
+                                </div>
+                                <div class="form-group">
+                                    <label>Description</label>
+                                    <textarea class="form-control" rows="4" required placeholder="Description" asp-for="Description"></textarea>
+                                </div>
+                                <div class="form-group">
+                                    <label>Share</label>
+                                    <select class="form-select form-control" aria-label="Default select example" name="MemberId" asp-items="@ViewBag.MemberId" multiple>
+                                        <option selected>Search or Select</option>
+
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label>Product</label>
+                                    <input type="text" class="form-control" placeholder="Product" asp-for="Product">
+                                </div>
+                                <div class="form-group">
+                                    <label>Object Type</label>
+                                    <select class="form-select form-control" id="objectTypeId" name="ObjectTypeId" aria-label="Default select example" required asp-items="@ViewBag.ObjectTypeId">
+                                    </select>
+                                </div>
+                                <div class="form-group" id="objectType_activity" style="display:none;">
+                                    <label>Scoring</label>
+                                    <div class="radio-btn">
+                                        <div class="form-check">
+                                            <input class="form-radio-input" type="radio" name="IsActivityTime" value="true"  id="flexRadioDefault1" checked>
+                                            <label class="form-check-label" for="flexRadioDefault1">
+                                                Activity Time
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-radio-input" type="radio" name="IsActivityTime" value="false" id="flexRadioDefault2">
+                                            <label class="form-check-label" for="flexRadioDefault2">
+                                                Average Speed
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label>Participant Images</label>
+                                    <div class="upload-img-box">
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-4 col-4">
+                                                <div class="form-group">
+                                                    <label>Ready</label>
+                                                    <div class="dropzone">
+                                                        <img src="~/assets/img/icons/cloud_upload.png" class="upload-icon" />
+                                                        <input type="file" class="upload-input" asp-for="ParticipantReadyImage" required />
+                                                        <span>Upload Photo</span>
+                                                    </div>
+                                                    <div class="bottom-text">
+                                                        <label>Font Color</label>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="ParticipantReady" value="light" id="flexRadioDefault3" checked>
+                                                            <label class="form-check-label" for="flexRadioDefault3">
+                                                                Light
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="ParticipantReady" value="dark" id="flexRadioDefault4">
+                                                            <label class="form-check-label" for="flexRadioDefault4">
+                                                                Dark
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-4 col-md-4 col-4">
+                                                <div class="form-group">
+                                                    <label>Active</label>
+                                                    <div class="dropzone">
+                                                        <img src="~/assets/img/icons/cloud_upload.png" class="upload-icon" />
+                                                        <input type="file" class="upload-input" asp-for="ParticipantActiveImage" required />
+                                                        <span>Upload Photo</span>
+                                                    </div>
+                                                    <div class="bottom-text">
+                                                        <label>Font Color</label>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="ParticipantActive" value="light" id="flexRadioDefault5" checked>
+                                                            <label class="form-check-label" for="flexRadioDefault5">
+                                                                Light
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="ParticipantActive" value="dark" id="flexRadioDefault6">
+                                                            <label class="form-check-label" for="flexRadioDefault6">
+                                                                Dark
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-4 col-md-4 col-4">
+                                                <div class="form-group">
+                                                    <label>Complete</label>
+                                                    <div class="dropzone">
+                                                        <img src="~/assets/img/icons/cloud_upload.png" class="upload-icon" />
+                                                        <input type="file" class="upload-input" asp-for="ParticipantCompleteImage" required />
+                                                        <span>Upload Photo</span>
+                                                    </div>
+                                                    <div class="bottom-text">
+                                                        <label>Font Color</label>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="ParticipantComplete" value="light" id="flexRadioDefault7" checked>
+                                                            <label class="form-check-label" for="flexRadioDefault7">
+                                                                Light
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="ParticipantComplete" value="dark" id="flexRadioDefault8">
+                                                            <label class="form-check-label" for="flexRadioDefault8">
+                                                                Dark
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label>Broadcast Images</label>
+                                    <div class="upload-img-box">
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-4 col-4">
+                                                <div class="form-group">
+                                                    <label>Ready</label>
+                                                    <div class="dropzone">
+                                                        <img src="~/assets/img/icons/cloud_upload.png" class="upload-icon" />
+                                                        <input type="file" class="upload-input" asp-for="BroadcastReadyImage" required />
+                                                        <span>Upload Photo</span>
+                                                    </div>
+                                                    <div class="bottom-text">
+                                                        <label>Font Color</label>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="BroadcastReady" value="light" id="flexRadioDefault9" checked>
+                                                            <label class="form-check-label" for="flexRadioDefault9">
+                                                                Light
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="BroadcastReady" value="dark" id="flexRadioDefault10">
+                                                            <label class="form-check-label" for="flexRadioDefault10">
+                                                                Dark
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-4 col-md-4 col-4">
+                                                <div class="form-group">
+                                                    <label>Active</label>
+                                                    <div class="dropzone">
+                                                        <img src="~/assets/img/icons/cloud_upload.png" class="upload-icon" />
+                                                        <input type="file" class="upload-input" asp-for="BroadcastActiveImage" required />
+                                                        <span>Upload Photo</span>
+                                                    </div>
+                                                    <div class="bottom-text">
+                                                        <label>Font Color</label>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="BroadcastActive" value="light" id="flexRadioDefault11" checked>
+                                                            <label class="form-check-label" for="flexRadioDefault11">
+                                                                Light
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="BroadcastActive" value="dark" id="flexRadioDefault12">
+                                                            <label class="form-check-label" for="flexRadioDefault12">
+                                                                Dark
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-4 col-md-4 col-4">
+                                                <div class="form-group">
+                                                    <label>Complete</label>
+                                                    <div class="dropzone">
+                                                        <img src="~/assets/img/icons/cloud_upload.png" class="upload-icon" />
+                                                        <input type="file" class="upload-input" asp-for="BroadcastCompleteImage" required />
+                                                        <span>Upload Photo</span>
+                                                    </div>
+                                                    <div class="bottom-text">
+                                                        <label>Font Color</label>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="BroadcastComplete" value="light" id="flexRadioDefault13" checked>
+                                                            <label class="form-check-label" for="flexRadioDefault13">
+                                                                Light
+                                                            </label>
+                                                        </div>
+                                                        <div class="form-check ps-0">
+                                                            <input class="form-radio-input" type="radio" name="BroadcastComplete" value="dark" id="flexRadioDefault14">
+                                                            <label class="form-check-label" for="flexRadioDefault14">
+                                                                Dark
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="form-group">
+                                    <button type="submit" class="btn submit-btn w-100">Save</button>
+                                </div>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+            <footer class="footer-section w-100 d-none">
+                <div class="container">
+                    <div class="footer-content">
+                        <a href="#" class="footer-menu-icon">
+                            <img src="~/assets/img/icons/list.png" alt="list" class="img-fluid">
+                        </a>
+                        <a href="#" class="footer-menu-icon">
+                            <img src="~/assets/img/icons/list_alt.png" alt="list" class="img-fluid">
+                        </a>
+                        <a href="#" class="footer-menu-icon">
+                            <img src="~/assets/img/icons/team1.png" alt="list" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</main><!-- End #main -->
+<script src="~/assets/js/jquery-1.11.3.min.js"></script>
+
+<script>
+    $("#objectTypeId").change(function(){
+        if ($(this).find("option:selected").text() === "Activity"){
+            $("#objectType_activity").show();
+        }else{
+            $("#objectType_activity").hide();
+
+        }
+    });
+</script>

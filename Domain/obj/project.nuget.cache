@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3tTIVz08/4a+KyQ0OXO3NQ+S2av5MJ+nJ4Mib7vnHpUAfWMWWR9JBFTQS8xTy9yjmXsxzZj9UTWhFMzstOQzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

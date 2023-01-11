@@ -1,0 +1,24 @@
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.deps.json
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.dll
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.pdb
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfo.cs
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.dll
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\refint\Infrastructure.Shared.dll
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.pdb
+E:\Scorerecord Project\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\ref\Infrastructure.Shared.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.deps.json
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.pdb
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\refint\Infrastructure.Shared.dll
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.pdb
+D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\ref\Infrastructure.Shared.dll

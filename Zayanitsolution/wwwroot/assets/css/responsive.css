@@ -1,0 +1,199 @@
+.show-on-1380 {
+  display: none! important;
+}
+
+.hide-on-1380 {
+  display: block! important;
+}
+
+.show-on-991 {
+  display: none! important;
+}
+
+.hide-on-991 {
+  display: block! important;
+}
+
+.show-on-767 {
+  display: none! important;
+}
+
+.hide-on-767 {
+  display: block! important;
+}
+
+.show-on-640 {
+  display: none! important;
+}
+
+.hide-on-640 {
+  display: block! important;
+}
+
+.show-on-575 {
+  display: none! important;
+}
+
+.hide-on-575 {
+  display: block! important;
+}
+
+
+@media (max-width: 1600px) {
+  
+}
+
+@media (max-width: 1380px) {
+  .main-section.body-section {
+    height: 100vh;
+  }
+
+  .continue-btn {
+    margin-top: 50px;
+  }
+
+  .scan-box .scan-area {
+    margin-bottom: 40px;
+  }
+
+  .main-body-section {
+    padding: 0 20px 40px;
+  }
+
+  .scan-qr-box .scan-area {
+    margin-bottom: 30px! important;
+  }    
+
+  .show-on-1380 {
+    display: block! important;
+  } 
+  
+  .hide-on-1380 {
+    display: none! important;
+  }
+
+  .body-content {
+    margin-top: 40px;
+  }
+
+  .comment-section.rating-section .reg-content-box {
+    height: 100%;
+  }
+
+  .user-body-section {
+    height: auto! important;
+  }
+
+  .footer-section.ft-sction {
+    position: relative;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 1280px) {
+  
+}
+
+@media (max-width: 1200px) {
+  
+}
+
+@media (max-width: 1024px) {
+  
+}
+@media (max-width: 991px) {
+  
+  
+}
+
+@media (max-width: 767px) {
+  
+}
+
+@media (max-width: 640px) {
+  
+}
+
+@media (max-width: 575px) {
+  
+}
+
+@media (max-width: 480px) {
+      
+
+}
+@media (max-width: 425px) {
+  
+
+}
+
+@media (max-width: 380px) {
+  .site-logo-area .logo-img {
+    max-width: 200px;
+    width: 100%;
+  }
+
+  .body-content {
+    margin-top: 40px;
+  }
+
+  .body-content h1 {
+    font-size: 28px;
+  }
+
+  .body-content p,
+  .form-box .forget-label,
+  .form-box .form-check-label {
+    font-size: 14px;
+  }
+
+}
+
+@media (max-width: 340px) {
+  
+
+}
+
+
+
+/* =====================
+   desktop
+   min-width: 768px;
+   max-width: 1024px;
+
+===================== */
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+}
+
+
+
+/* =====================
+
+   Tablets
+   min-width: 640px;
+   max-width: 767px;
+
+===================== */
+
+@media (min-width: 640px) and (max-width: 767px) {
+  
+}
+
+
+
+/* =====================
+
+   Small Devices
+   min-width: 320px;
+   max-width: 479px;
+
+===================== */
+
+
+@media (min-width: 320px) and (max-width: 479px) {
+  
+
+}

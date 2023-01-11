@@ -1,0 +1,48 @@
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\bin\Debug\net6.0\Domain.dll
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\bin\Debug\net6.0\Domain.pdb
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.dll
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.pdb
+E:\New folder\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\bin\Debug\net6.0\Domain.dll
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.dll
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Scorerecord Project\Unit-Of-Work-With-Repository-Pattern-In-.net-6\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Scorerecord Project\Scorerecord\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Scorerecord Project\Scorerecord\Domain\bin\Debug\net6.0\Domain.dll
+E:\Scorerecord Project\Scorerecord\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\Domain.dll
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Scorerecord Project\Scorerecord\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Zayan IT Solution\scorerecord\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Zayan IT Solution\scorerecord\Domain\bin\Debug\net6.0\Domain.dll
+D:\Zayan IT Solution\scorerecord\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\Domain.dll
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Zayan IT Solution\scorerecord\Domain\obj\Debug\net6.0\ref\Domain.dll
