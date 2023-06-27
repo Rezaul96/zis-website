@@ -66,3 +66,20 @@ D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\refint\Infrastr
 D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
 D:\Zayan IT Solution\scorerecord\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\ZIS\ZIS-WEBSITE\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+E:\ZIS\ZIS-WEBSITE\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\ZIS\ZIS-WEBSITE\Infrastructure\bin\Debug\net6.0\Domain.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure\bin\Debug\net6.0\Domain.pdb
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+E:\ZIS\ZIS-WEBSITE\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

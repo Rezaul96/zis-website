@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Zayan IT Solution\\scorerecord\\Scorerecord\\zayanitsolution.csproj": {}
+    "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\zayanitsolution.csproj": {}
   },
   "projects": {
-    "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj": {
+    "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\",
-        "outputPath": "D:\\Zayan IT Solution\\scorerecord\\Domain\\obj\\",
+        "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\rezau\\.nuget\\packages\\",
+        "outputPath": "E:\\ZIS\\ZIS-WEBSITE\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mohammad Neamul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rezau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,40 +56,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Zayan IT Solution\\scorerecord\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
+    "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Zayan IT Solution\\scorerecord\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
+        "projectUniqueName": "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
         "projectName": "Infrastructure.Shared",
-        "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
-        "packagesPath": "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\",
-        "outputPath": "D:\\Zayan IT Solution\\scorerecord\\Infrastructure.Shared\\obj\\",
+        "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
+        "packagesPath": "C:\\Users\\rezau\\.nuget\\packages\\",
+        "outputPath": "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mohammad Neamul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rezau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,40 +129,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Zayan IT Solution\\scorerecord\\Infrastructure\\Infrastructure.csproj": {
+    "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Zayan IT Solution\\scorerecord\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\",
-        "outputPath": "D:\\Zayan IT Solution\\scorerecord\\Infrastructure\\obj\\",
+        "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\rezau\\.nuget\\packages\\",
+        "outputPath": "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mohammad Neamul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rezau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,8 +162,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj"
+              "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj"
               }
             }
           }
@@ -242,40 +214,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Zayan IT Solution\\scorerecord\\Scorerecord\\zayanitsolution.csproj": {
+    "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\zayanitsolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Zayan IT Solution\\scorerecord\\Scorerecord\\zayanitsolution.csproj",
+        "projectUniqueName": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\zayanitsolution.csproj",
         "projectName": "zayanitsolution",
-        "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Scorerecord\\zayanitsolution.csproj",
-        "packagesPath": "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\",
-        "outputPath": "D:\\Zayan IT Solution\\scorerecord\\Scorerecord\\obj\\",
+        "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\zayanitsolution.csproj",
+        "packagesPath": "C:\\Users\\rezau\\.nuget\\packages\\",
+        "outputPath": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mohammad Neamul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rezau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -289,14 +247,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj"
+              "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj"
               },
-              "D:\\Zayan IT Solution\\scorerecord\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
-                "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Infrastructure.Shared\\Infrastructure.Shared.csproj"
+              "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
+                "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure.Shared\\Infrastructure.Shared.csproj"
               },
-              "D:\\Zayan IT Solution\\scorerecord\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Infrastructure\\Infrastructure.csproj"
+              "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -341,7 +299,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[6.0.14, )"
             }
           },
           "imports": [
@@ -355,24 +313,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -381,7 +321,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

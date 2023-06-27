@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj": {}
+    "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj": {
+    "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Zayan IT Solution\\scorerecord\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\",
-        "outputPath": "D:\\Zayan IT Solution\\scorerecord\\Domain\\obj\\",
+        "projectPath": "E:\\ZIS\\ZIS-WEBSITE\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\rezau\\.nuget\\packages\\",
+        "outputPath": "E:\\ZIS\\ZIS-WEBSITE\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mohammad Neamul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rezau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,26 +56,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

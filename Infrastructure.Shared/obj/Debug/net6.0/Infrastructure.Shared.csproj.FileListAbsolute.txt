@@ -22,3 +22,15 @@ D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastr
 D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\refint\Infrastructure.Shared.dll
 D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.pdb
 D:\Zayan IT Solution\scorerecord\Infrastructure.Shared\obj\Debug\net6.0\ref\Infrastructure.Shared.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.deps.json
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.pdb
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfo.cs
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\refint\Infrastructure.Shared.dll
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.pdb
+E:\ZIS\ZIS-WEBSITE\Infrastructure.Shared\obj\Debug\net6.0\ref\Infrastructure.Shared.dll
