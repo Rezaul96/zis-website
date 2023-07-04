@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2VJ3sdzzZQdjVVKtrZ57/Y2tXIFVO0rinedAJgxZJZE=",
+  "Hash": "CsU642E+4WSol3fHCx1R5PJWGdMttr5HchwajRoYxVA=",
   "Source": "zayanitsolution",
   "BasePath": "_content/zayanitsolution",
   "Mode": "Default",
@@ -7837,6 +7837,23 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\favicons\\apple-touch-icon.png"
     },
     {
+      "Identity": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\favicons\\favicon.png",
+      "SourceId": "zayanitsolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\",
+      "BasePath": "_content/zayanitsolution",
+      "RelativePath": "Website/assets/images/favicons/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\favicons\\favicon.png"
+    },
+    {
       "Identity": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\favicons\\favicon-16x16.png",
       "SourceId": "zayanitsolution",
       "SourceType": "Discovered",
@@ -7954,6 +7971,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\loader.png"
+    },
+    {
+      "Identity": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\Logo\\Logo2.png",
+      "SourceId": "zayanitsolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\",
+      "BasePath": "_content/zayanitsolution",
+      "RelativePath": "Website/assets/images/Logo/Logo2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\Logo\\Logo2.png"
     },
     {
       "Identity": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\project\\portfolio-page--two-1-1.jpg",

@@ -261,6 +261,10 @@
       "PackagePath": "staticwebassets\\Website\\assets\\css\\corpai.css"
     },
     {
+      "Id": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\Logo\\Logo2.png",
+      "PackagePath": "staticwebassets\\Website\\assets\\images\\Logo\\Logo2.png"
+    },
+    {
       "Id": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\backgrounds\\main-slider-1-1.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\backgrounds\\main-slider-1-1.jpg"
     },
@@ -411,6 +415,10 @@
     {
       "Id": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\favicons\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\favicons\\favicon.png",
+      "PackagePath": "staticwebassets\\Website\\assets\\images\\favicons\\favicon.png"
     },
     {
       "Id": "E:\\ZIS\\ZIS-WEBSITE\\Zayanitsolution\\wwwroot\\Website\\assets\\images\\favicons\\site.webmanifest",
