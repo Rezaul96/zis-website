@@ -16,8 +16,56 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\ZIS\ZIS-WEBSITE\Zayanitsolution
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXEFib3V0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/CustomSoftware.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXEN1c3RvbVNvZnR3YXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/Ecommerce.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXEVjb21tZXJjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/Erp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXEVycC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/ITConsultation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXElUQ29uc3VsdGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/MobileAppDevelopment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXE1vYmlsZUFwcERldmVsb3BtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/ProductAccounting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXFByb2R1Y3RBY2NvdW50aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/ProductECommerce.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXFByb2R1Y3RFQ29tbWVyY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/ProductErp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXFByb2R1Y3RFcnAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/ProductSmartBusiness.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXFByb2R1Y3RTbWFydEJ1c2luZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Home/WebsiteDevlopment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXFdlYnNpdGVEZXZsb3BtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Shared/_Footer.cshtml]
@@ -34,6 +82,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Shared/_Script.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xTaGFyZWRcX1NjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Shared/_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xTaGFyZWRcX1NpZGVCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Shared/_Subscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xTaGFyZWRcX1N1YnNjcmliZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Views/Error.cshtml]

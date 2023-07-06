@@ -5,6 +5,9 @@
 <!-- Mirrored from themazine.com/mr/corpai-html/main-html/index3.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Jan 2023 12:31:32 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+ <title> Home Three || corpai || corpai HTML 5 Template </title>
+<meta name="description" content="corpai HTML 5 Template " />
+
 @Html.Partial("~/Areas/Website/Views/Shared/_Head.cshtml")
 
 <body>
@@ -12,57 +15,9 @@
 
 
 
-    <div class="preloader">
-        <div class="preloader__image"></div>
-    </div>
+  
     <!-- /.preloader -->
-    <!-- Start sidebar widget content -->
-    <div class="xs-sidebar-group info-group info-sidebar">
-        <div class="xs-overlay xs-bg-black"></div>
-        <div class="xs-sidebar-widget">
-            <div class="sidebar-widget-container">
-                <div class="widget-heading">
-                    <a href="#" class="close-side-widget">X</a>
-                </div>
-                <div class="sidebar-textwidget">
-                    <div class="sidebar-info-contents">
-                        <div class="content-inner">
-                            <div class="logo">
-                                <a href="index.html"><img src="~/website/assets/images/logo/logo2.png" alt="" /></a>
-                            </div>
-                            <div class="content-box">
-                                <h4>About Us</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                    labore et magna aliqua. Ut enim ad minim veniam laboris.
-                                </p>
-                            </div>
-                            <div class="form-inner">
-                                <h4>Get a free quote</h4>
-                                <form action="https://themazine.com/mr/corpai-html/main-html/assets/inc/sendemail.php" class="contact-form-validated"
-                                      novalidate="novalidate">
-                                    <div class="form-group">
-                                        <input type="text" name="name" placeholder="Name" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="email" name="email" placeholder="Email" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <textarea name="message" placeholder="Message..."></textarea>
-                                    </div>
-                                    <div class="form-group message-btn">
-                                        <button type="submit" class="thm-btn form-inner__btn">Submit Now</button>
-                                    </div>
-                                </form>
-                                <div class="result"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End sidebar widget content -->
+    @Html.Partial("~/Areas/Website/Views/Shared/_SideBar.cshtml")
 
 
     <div class="page-wrapper">
@@ -858,46 +813,7 @@
         </section>
         <!--Blog Two End-->
         <!--Subscribe One Start-->
-        <section class="subscribe-one">
-            <div class="container">
-                <div class="subscribe-one__inner">
-                    <div class="subscribe-one__shape-1 float-bob-y">
-                        <img src="~/website/assets/images/shapes/subscribe-one-shape-1.png" alt="">
-                    </div>
-                    <div class="subscribe-one__shape-2 float-bob-x">
-                        <img src="~/website/assets/images/shapes/subscribe-one-shape-2.png" alt="">
-                    </div>
-                    <div class="subscribe-one__shape-3 float-bob-y">
-                        <img src="~/website/assets/images/shapes/subscribe-one-shape-3.png" alt="">
-                    </div>
-                    <div class="subscribe-one__shape-4 float-bob-x">
-                        <img src="~/website/assets/images/shapes/subscribe-one-shape-4.png" alt="">
-                    </div>
-                    <div class="row">
-                        <div class="col-xl-6">
-                            <div class="subscribe-one__left">
-                                <h3 class="subscribe-one__title">
-                                    Start your free trial
-                                    right away.
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="col-xl-6">
-                            <div class="subscribe-one__right">
-                                <form class="subscribe-one__form mc-form" data-url="MC_FORM_URL">
-                                    <div class="subscribe-one__input-box">
-                                        <input type="email" placeholder="Email address" name="email">
-                                        <button type="submit" class="subscribe-one__btn">Subscribe</button>
-                                    </div>
-                                </form>
-                                <div class="mc-form__response"></div>
-                                <p class="subscribe-one__text">Subsrcibe for our upcoming latest articles</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        @Html.Partial("~/Areas/Website/Views/Shared/_Subscribe.cshtml")
         <!--Subscribe One End-->
         <!--Site Footer Start-->
         @Html.Partial("~/Areas/Website/Views/Shared/_Footer.cshtml")
