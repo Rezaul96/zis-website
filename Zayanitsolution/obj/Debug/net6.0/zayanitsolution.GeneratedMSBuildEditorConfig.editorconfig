@@ -20,6 +20,22 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xTaGFyZWRcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Shared/_Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xTaGFyZWRcX0hlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xTaGFyZWRcX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Areas/Website/Views/Shared/_Script.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2Vic2l0ZVxWaWV3c1xTaGFyZWRcX1NjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/ZIS/ZIS-WEBSITE/Zayanitsolution/Views/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
